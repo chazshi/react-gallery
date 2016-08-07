@@ -46,10 +46,59 @@ html, body {
 /* stage -- end */
 
 /* img-sec -- start */
+/* 设置一下想要图片显示的大小 */
+
+/* 
+原始大小
+  $img-width: 580px;
+  $img-height: 326px;
+
+testSize：
+  $img-width: 116px;
+  $img-height: 65px;
+  $img-padding: 10px;
+ */
+$img-width: 290px;
+$img-height: 163px;
+$img-padding: 10px;
 .img-sec {
   position: relative;
   width: 100%;
   height: 100%;
+
+  overflow: hidden; /* 超出的部分切掉 */
+  background-color: #999;
+
+  @at-root {
+    .img-figure {
+      position: absolute;
+
+      width: $img-width + $img-padding * 2;
+      height: $img-height  + $img-padding * 2 + 40px;
+
+      margin: 0;
+      padding: $img-padding;
+      background-color: #fff;
+      box-sizing: border-box;
+      
+      /*border: 1px solid black;*/
+      
+      img {
+        width: $img-width;
+        height: $img-height;
+      } 
+
+      figcaption {
+        text-align: center;
+        .img-title {
+          margin: 20px 0 0 0;
+          color: #a7a0a2;
+          font-size: 16px; 
+        }
+      }
+    }
+    
+  }
 }
 /* img-sec -- end */
 
