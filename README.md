@@ -1,4 +1,4 @@
-##Node + Webpack + React
+##A gallery by Node,Webpack,React 
 ### [examples](http://chazshi.github.io/react-gallery/)
 ![Markdown](http://i2.piimg.com/1949/e26f02519eb35b41.gif)
 
