@@ -1,4 +1,4 @@
-![image](##)
+![Markdown](http://i2.piimg.com/1949/e26f02519eb35b41.gif)
 
 ## Development
 After clone this repo, run `npm install && npm start` then, the serve and the webapp will start.
