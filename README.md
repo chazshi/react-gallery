@@ -1,5 +1,5 @@
 ##A gallery by Node,Webpack,React 
-### [examples](http://chazshi.github.io/react-gallery/)
+### [examples](https://github.com/chazshi/react-gallery/blob/master/react-gallery.gif?raw=true)
 ![Markdown](http://a1.qpic.cn/psb?/V139yVL93UvzyV/X2Cpv4mdF4SLpy2sQ0qBkgVWFLUNXgRGVVGRWYUrDDc!/b/dHEBAAAAAAAA&bo=ewS1AgAAAAACn3M!&rf=viewer_4)
 
 ## Development
