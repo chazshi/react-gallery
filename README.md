@@ -1,5 +1,5 @@
-##A gallery by Node,Webpack,React 
-### [examples](https://github.com/chazshi/react-gallery/raw/master/introimg/react-gallery.gif)
+# A gallery by Node,Webpack,React 
+### [examples](http://chazshi.github.io/react-gallery/)
 ![Markdown](http://a1.qpic.cn/psb?/V139yVL93UvzyV/X2Cpv4mdF4SLpy2sQ0qBkgVWFLUNXgRGVVGRWYUrDDc!/b/dHEBAAAAAAAA&bo=ewS1AgAAAAACn3M!&rf=viewer_4)
 
 ## Development
@@ -14,7 +14,7 @@ After clone this repo, run `npm install && npm start` then, the serve and the we
    *solve: install and configuration environment variable.*
 4. run `webpack` to build the project. remenber change **default.js** and **index.html** where `/assets/` to `assets/` at first. after this, you can open dist/index.html to show it.
 
-##Debugger
+## Debugger
 you can install **react-devtools** for your browser, then write `Debugger;` in code files, and run `npm start`.
 
 ## Browser support
