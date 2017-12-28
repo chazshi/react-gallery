@@ -1,6 +1,6 @@
 # A gallery by Node,Webpack,React 
 ### [examples](http://chazshi.github.io/react-gallery/)
-![Markdown](http://a1.qpic.cn/psb?/V139yVL93UvzyV/X2Cpv4mdF4SLpy2sQ0qBkgVWFLUNXgRGVVGRWYUrDDc!/b/dHEBAAAAAAAA&bo=ewS1AgAAAAACn3M!&rf=viewer_4)
+![Image text](https://raw.githubusercontent.com/chazshi/react-gallery/master/react-gallery.gif)
 
 ## Development
 After clone this repo, run `npm install && npm start` then, the serve and the webapp will start.
